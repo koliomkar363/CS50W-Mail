@@ -1,4 +1,4 @@
-# CS50W Project 0: Search
+# CS50W Project 3: Mail
 
 Design a front-end for an email client that makes API calls to send and receive emails.
 
